@@ -2,7 +2,8 @@
 
 This project is an interactive rating component built using modern web technologies. The goal is to create a responsive, user-friendly UI for selecting and submitting a rating, and to provide users with feedback after submitting their rating.
 
-![Rating App](app/public/RatingApp.png)
+![RatingApp](https://github.com/user-attachments/assets/93b2e6ef-792e-4df2-aac0-64b130166e9c)
+
 
 ## Overview
 
@@ -15,7 +16,7 @@ This project is an interactive rating component built using modern web technolog
 - [Material UI](https://mui.com/) - React UI framework for fast and customizable components
 
 ### Demo
-Live view by clicking the link: 
+Live view by clicking the link: https://olhasashchuk-interactive-rating-component-olba.vercel.app/
 ## Features
 
 Your users should be able to:
