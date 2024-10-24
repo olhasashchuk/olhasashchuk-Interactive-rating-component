@@ -2,7 +2,7 @@
 
 This project is an interactive rating component built using modern web technologies. The goal is to create a responsive, user-friendly UI for selecting and submitting a rating, and to provide users with feedback after submitting their rating.
 
-![Rating App](src/app/public/RatingApp.png)
+![Rating App](app/src/app/public/RatingApp.png)
 
 ## Overview
 
